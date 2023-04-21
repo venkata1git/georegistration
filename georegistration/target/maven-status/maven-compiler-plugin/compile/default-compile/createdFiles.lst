@@ -1,0 +1,8 @@
+com\georegistration\GeoregistrationApplication.class
+com\georegistration\config\AppConfig.class
+com\georegistration\controller\RegistrationController.class
+com\georegistration\domain\User$UserBuilder.class
+com\georegistration\domain\User.class
+com\georegistration\service\RegistrationService.class
+com\georegistration\domain\GeoLocation$GeoLocationBuilder.class
+com\georegistration\domain\GeoLocation.class
